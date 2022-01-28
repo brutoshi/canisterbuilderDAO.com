@@ -16,6 +16,18 @@ CanisterBuilderDAO exists to advance the technology and adoption of Internet Com
 * Create & Promote Community Standards to Advance Interoperability in Internet Computer Ecosystem 
 * Onboard, Educate & Support New Developers for Internet Computer 
 
+## How to join
+Currently invitation only. Any builder wishes to join should contact an existing member. Membership will be granted upon approvals by at least 3 the DAO members. 
+
+## DAO Structure 
+### Core Team
+The closest thing we have to a full-time team, staffed by “Leaders”. They are responsible for initial organisation of the guilds and implementing the tooling, infrastructure and processes required to operate successfully as a DAO.
+
+### Techinical Working Group
+
+### Operation Working Group 
+
+
 
 ## Season 0 
 
@@ -23,8 +35,6 @@ CanisterBuilderDAO exists to advance the technology and adoption of Internet Com
 A discrete period of time for DAO members to come together to align on projects and initiatives that help us deliver on our mission, values, and goals.
 
 Objectives for each future Season must be defined up front (process TBD) and, prior to ending a Season, a retrospective must be carried out to ensure we can learn and improve (process TBD).
-
-
 
 ### Implementation 
 
@@ -53,7 +63,6 @@ NNS神经元，发起提案；如何创建这个神经元，涉及治理的方�
 
 以提案形式，发起NNS神经元研究，让大家去参与；
 给提案库取名字；每个人
-
 
 
 组织架构
